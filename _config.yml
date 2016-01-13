@@ -1,0 +1,28 @@
+name: Reading Odyssey
+favicon: null
+layout_spectrum: 0.33364511118270457
+typography_spectrum: 0.6049801979679614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6223050120752305
+  lightness: 0.44186058174818754
+  saturation: 0.07581099006347358
+  rhythmicContrast: 0.3201030644122511
+purpose: []
